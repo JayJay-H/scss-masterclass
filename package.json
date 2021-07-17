@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/nomadcoders/scss-masterclass",
-  "author": "Nicolás Serrano Arévalo <itnico.las.me@gmail.com>",
+  "author": "Jae Heon Jeong <tizm423@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@babel/core": "^7.4.5",
