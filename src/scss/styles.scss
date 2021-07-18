@@ -9,14 +9,16 @@
 	top: 0;
 	left: 0;
 	background-color: $white;
-	.header-title {
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		h1 {
-			color: $red;
-			font-size: 50px;
-		}
-	}
+	color: $red;
+	justify-content: center;
 }
 
+.header-title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 40%;
+	h1 {
+		font-size: 80px;
+	}
+}
