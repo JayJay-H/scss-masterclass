@@ -1,6 +1,1 @@
-body {
-  background: peru;
-}
-body a {
-  color: #00f;
-}
+.box{background-color:green}.box h2{color:#e7473c}.box h2:hover{background-color:#00f}.box:hover{background-color:#ff0}
