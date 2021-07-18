@@ -1,12 +1,8 @@
-@import "_buttons";
+@import "_mixins";
 
 a {
-	@extend %button;
-	text-decoration: none;
-}
-
-
-button {
-	@extend %button;
-	border: none;
+	color: red;
+	@include responsive("iphone") {
+		color: yellow;
+	}
 }
