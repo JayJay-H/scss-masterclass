@@ -1,8 +1,22 @@
-@import "_mixins";
+@import "_variables";
 
-a {
-	color: red;
-	@include responsive("iphone") {
-		color: yellow;
+.header {
+	display: flex;
+	flex-direction: column;
+	width: 33%;
+	height: 100vh;
+	position: fixed;
+	top: 0;
+	left: 0;
+	background-color: $white;
+	.header-title {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		h1 {
+			color: $red;
+			font-size: 50px;
+		}
 	}
 }
+
