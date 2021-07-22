@@ -1,4 +1,5 @@
 %button {
+	cursor: pointer;
 	padding: 10px 25px;
 	border-radius: 20px;
 	margin-right: 10px;
@@ -14,9 +15,17 @@
 	}
 }
 
-%title {
+%big-title {
 	font-size: 33px;
 	font-weight: 600;
 	letter-spacing: -1px;
 	margin-bottom: 130px;
+	margin-top: 8vh;
+}
+
+%small-title {
+	font-size: 25px;
+	font-weight: 600;
+	margin-top: 0;
+	margin-bottom: 3vh;
 }
