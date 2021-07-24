@@ -69,7 +69,7 @@
 - [X] [http://www.z-o-o.fr/](http://www.z-o-o.fr/)
 - [X] [https://schwartzmedia.com.au/](https://schwartzmedia.com.au/)
 - [X] [https://tolv.dk/](https://tolv.dk/)
-- [ ] [https://rodicdavidson.co.uk/](https://rodicdavidson.co.uk/)
+- [X] [https://rodicdavidson.co.uk/](https://rodicdavidson.co.uk/)
 - [ ] [https://beige.de/](https://beige.de/)
 - [ ] [http://donicaida.com/](http://donicaida.com/)
 - [ ] [https://canalstreet.market/](https://canalstreet.market/)
