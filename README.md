@@ -71,6 +71,6 @@
 - [X] [https://tolv.dk/](https://tolv.dk/)
 - [X] [https://rodicdavidson.co.uk/](https://rodicdavidson.co.uk/)
 - [X] [https://beige.de/](https://beige.de/)
-- [ ] [http://donicaida.com/](http://donicaida.com/)
+- [X] [http://donicaida.com/](http://donicaida.com/)
 - [ ] [https://canalstreet.market/](https://canalstreet.market/)
 - [ ] [https://wonhundred.com/](https://wonhundred.com/)
