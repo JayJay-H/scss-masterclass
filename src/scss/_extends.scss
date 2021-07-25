@@ -18,7 +18,7 @@
 	background-position: 0 0, 0 100%, top left, top right;
 	background-size: 30px 1px, 30px 1px, 1px 30px, 1px 30px;
 	background-repeat: repeat-x, repeat-x, repeat-y, repeat-y;
-	animation: 0.4s infinite normal spin forwards;
+	animation: 0.4s infinite normal spin;
 	animation-timing-function: linear;
 	animation-play-state: paused;
 	cursor: pointer;
